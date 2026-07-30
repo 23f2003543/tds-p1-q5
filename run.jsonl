@@ -1,0 +1,11 @@
+{"type": "incoming", "chat_id": 5897902075, "text": "hello", "timestamp": 1785416076.621245}
+{"type": "outgoing", "chat_id": 5897902075, "text": "{\"message\": \"Hello! How can I help you with data analysis today?\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785416084.6799767}
+{"type": "incoming", "chat_id": 5897902075, "text": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\\\"state\\\": \\\"<state name>\\\"", "timestamp": 1785416148.2442904}
+{"type": "outgoing", "chat_id": 5897902075, "text": "{\"state\": \"Assam\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785416152.8706622}
+{"type": "incoming", "chat_id": 5897902075, "text": "Which is the highest peak in india? Reply with ONLY a JSON object like {\\\"state\\\": \\\"<state name>\\\"", "timestamp": 1785420184.5238802}
+{"type": "outgoing", "chat_id": 5897902075, "text": "{\"state\": \"Sikkim\", \"log_url\": \"github/raw\"}", "timestamp": 1785420196.9532316}
+{"type": "incoming", "chat_id": 5897902075, "text": "Hello hi", "timestamp": 1785420223.619174}
+{"type": "incoming", "chat_id": 5897902075, "text": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\\\"state\\\": \\\"<state name>\\\"", "timestamp": 1785420279.589084}
+{"type": "outgoing", "chat_id": 5897902075, "text": "{\"state\": \"Assam\", \"log_url\": \"github/raw\"}", "timestamp": 1785420291.8324118}
+{"type": "incoming", "chat_id": 5897902075, "text": "Hello", "timestamp": 1785420309.4116085}
+{"type": "outgoing", "chat_id": 5897902075, "text": "{\"state\": \"Assam\", \"log_url\": \"github/raw\"}", "timestamp": 1785420324.7427053}
